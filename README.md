@@ -11,9 +11,16 @@ OpenCapCut is an ambitious open-source project aiming to revolutionize video edi
 
 This project is currently in its very early stages. The initial focus is on building a robust foundation, a clean user interface, and integrating fundamental video manipulation capabilities. As we evolve, we will incrementally add sophisticated AI-driven features.
 
-## Vision & Aspiration
+## Current Features
 
-We envision OpenCapCut as a collaborative platform where creators, developers, and AI enthusiasts can contribute to building the next generation of video editing tools. Our long-term goal is to combine:
+As of now, OpenCapCut provides a basic foundation for video editing, including:
+
+*   **Video Upload:** Users can select and upload local video files.
+*   **Video Playback:** The uploaded video can be played back within the application.
+
+## Future Vision & Planned Features
+
+We envision OpenCapCut as a collaborative platform where creators, developers, and AI enthusiasts can contribute to building the next generation of video editing tools. Our long-term goals and planned features include:
 
 *   **Intuitive Editing:** A user-friendly interface reminiscent of CapCut.
 *   **Transcript-based Editing:** Edit video by editing text, like Descript.
