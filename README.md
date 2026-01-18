@@ -75,6 +75,12 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result of your **AI video editing** platform.
 
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-capcut&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-capcut&type=date&legend=top-left)
+
+
 ## 🤝 Contributing
 
 We welcome contributions of all kinds! Whether you're a developer, designer, **AI researcher**, or video editor, your expertise can help shape this **open-source AI video editor**. Please refer to our `CONTRIBUTING.md` (coming soon) for guidelines.
