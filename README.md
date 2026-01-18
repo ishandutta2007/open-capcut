@@ -85,6 +85,21 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 We welcome contributions of all kinds! Whether you're a developer, designer, **AI researcher**, or video editor, your expertise can help shape this **open-source AI video editor**. Please refer to our `CONTRIBUTING.md` (coming soon) for guidelines.
 
+### 💬 Community & Support
+
+-   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions.
+-   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates.
+-   **🐦 [Github](https://github.com/ishandutta2007):** Follow me on Github for the latest commits and updates.
+
+## 💖 Support & Sponsorship
+
+If you find this project helpful or if it has saved you time and resources, please consider sponsoring the development. Your support helps maintain the project, develop new features, and keep the initiative open-source.
+
+**[Sponsor @ishandutta2007 on GitHub](https://github.com/sponsors/ishandutta2007)**
+
+Every contribution, no matter how small, makes a huge difference!
+
+
 ## 📄 License
 
 This **open-source video editor** project is licensed under the MIT License - see the `LICENSE` (coming soon) file for details.
